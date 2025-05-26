@@ -58,9 +58,6 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
-here is a demo,
-
-* [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
 
 
 # Demo:
@@ -116,7 +113,9 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Movie Recommender System.ipynb
+conda install jupyter -y
+
+jupyter notebook Movie Recommender System.ipynb
 ```
 
 Now run,
@@ -124,10 +123,3 @@ Now run,
 streamlit run app.py
 ```
 
-
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-
-```
