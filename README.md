@@ -1,6 +1,5 @@
 # Movie Recommender System!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
 
 In our fast-paced world, finding the perfect movie can be a challenge. This project delivers a personalized Movie Recommendation System that helps users discover films they'll love without endless searching. Built as a web application, it suggests similar movies based on your interests.
 
